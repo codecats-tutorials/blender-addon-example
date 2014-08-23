@@ -1,0 +1,16 @@
+bl_info = {
+    "name": "BevelME",
+    "author": "ssstrz",
+    "version": (1, 0, 0),
+    "blender": (2, 7, 1),
+    "api": 36147,
+    "location": "",
+    "category": "Mesh",
+    "description": "Delete selected object - test plugin",
+    "warning": "",
+    "wiki_url": "",
+    "tracker_url": ""
+}
+
+def register():
+	print 'abc'
